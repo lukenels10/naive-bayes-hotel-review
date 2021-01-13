@@ -24,6 +24,7 @@ The argument is the directory of the training data; the program will learn a nai
 
 * The model file should contain sufficient information for nbclassify.py to successfully label new data.
 * The model file should be human-readable, so that model parameters can be easily understood by visual inspection of the file. <br>
+
 The classification program will be invoked in the following way:
 
 > python nbclassify.py /path/to/input
